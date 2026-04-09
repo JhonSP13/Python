@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb04842f-5da4-4ba9-8672-2b50242c1b19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PraticandoPOO/teste.py" afterDir="false" />
+    <list default="true" id="cb04842f-5da4-4ba9-8672-2b50242c1b19" name="Changes" comment="Aula de orientação a objeto, alterando métodos e aplicando herança">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/exercicioPOO.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercicioPOO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JhonSP13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JhonSP13/Python.git&quot;,
+    &quot;accountId&quot;: &quot;b856fd7d-528f-43bb-9678-26bf7b0fa0f9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3BzrxTyEfyeIwfJkEaKGnHlvksN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -71,14 +79,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775502986675</updated>
-      <workItem from="1775502987693" duration="1987000" />
+      <workItem from="1775502987693" duration="5447000" />
+      <workItem from="1775694379535" duration="2899000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula de orientação a objeto, atributos e métodos.">
+      <option name="closed" value="true" />
+      <created>1775505224190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775505224190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aula de orientação a objeto, alterando métodos e aplicando herança">
+      <option name="closed" value="true" />
+      <created>1775508528871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775508528871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula de orientação a objeto, atributos e métodos." />
+    <MESSAGE value="Aula de orientação a objeto, alterando métodos e aplicando herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula de orientação a objeto, alterando métodos e aplicando herança" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$teste.coverage" NAME="teste Coverage Results" MODIFIED="1775504462317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PraticandoPOO" />
+    <SUITE FILE_PATH="coverage/Python$teste.coverage" NAME="teste Coverage Results" MODIFIED="1775507751638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PraticandoPOO" />
   </component>
 </project>
